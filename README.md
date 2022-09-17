@@ -1,2 +1,2 @@
-# Hallo_heimur
- hello world csharp
+# Hallo heimur
+ My first hello world program writen in csharp
